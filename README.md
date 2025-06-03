@@ -13,7 +13,7 @@ This repository implements experiments for the paper "B^2Mark: A Blind and Buyer
 - Wine
 - Generated Synthetic Datasets
 
-The generation method for the synthetic dataset is mentioned in Section 5.1 of the original paper.
+The generation method for the synthetic dataset is mentioned in Section 5.1 of the original paper. Other datasets used in the experiments can be downloaded from this [this link](https://drive.google.com/file/d/1e7-IP2xXtxICQ8l9w5myO8nV3MQgIeaC/view?usp=sharing). 
 
 ## Experiment
 ```
