@@ -19,7 +19,6 @@ The generation method for the synthetic dataset is mentioned in Section 5.1 of t
 ```
 .  
 └── experiment   # Experiments for Sections 5 and 6 
-    ├── dataeval       # Algorithms for B^2Mark, baselines, and other required utils
     ├── detectability       # Watermark detectability experiments for Section 5.1     
     ├── non_intrusiveness   # Watermark non_intrusiveness experiments for Section 5.2 
     ├── robustness          # Watermark robustness experiments for Section 5.3 
